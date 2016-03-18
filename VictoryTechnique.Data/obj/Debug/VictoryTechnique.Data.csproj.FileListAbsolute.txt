@@ -1,0 +1,17 @@
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\VictoryTechnique.Data.dll.config
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\VictoryTechnique.Data.dll
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\VictoryTechnique.Data.pdb
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\EntityFramework.dll
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\VictoryTechnique.Core.dll
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\VictoryTechnique.Core.pdb
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\EntityFramework.xml
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\VictoryTechnique\VictoryTechnique.Data\obj\Debug\VictoryTechnique.Data.csprojResolveAssemblyReference.cache
+C:\dev\VictoryTechnique\VictoryTechnique.Data\obj\Debug\VictoryTechnique.Data.dll
+C:\dev\VictoryTechnique\VictoryTechnique.Data\obj\Debug\VictoryTechnique.Data.pdb
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\dev\VictoryTechnique\VictoryTechnique.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\dev\VictoryTechnique\VictoryTechnique.Data\obj\Debug\VictoryTechnique.Data.Migrations.InitialCreate.resources
+C:\dev\VictoryTechnique\VictoryTechnique.Data\obj\Debug\VictoryTechnique.Data.csproj.GenerateResource.Cache
+C:\dev\VictoryTechnique\VictoryTechnique.Data\obj\Debug\VictoryTechnique.Data.Migrations.MadeBeltsNullable.resources

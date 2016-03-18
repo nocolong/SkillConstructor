@@ -1,0 +1,7 @@
+C:\dev\VictoryTechnique\VictoryTechnique.Core\bin\Debug\VictoryTechnique.Core.dll
+C:\dev\VictoryTechnique\VictoryTechnique.Core\bin\Debug\VictoryTechnique.Core.pdb
+C:\dev\VictoryTechnique\VictoryTechnique.Core\obj\Debug\VictoryTechnique.Core.csprojResolveAssemblyReference.cache
+C:\dev\VictoryTechnique\VictoryTechnique.Core\obj\Debug\VictoryTechnique.Core.dll
+C:\dev\VictoryTechnique\VictoryTechnique.Core\obj\Debug\VictoryTechnique.Core.pdb
+C:\dev\VictoryTechnique\VictoryTechnique.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\dev\VictoryTechnique\VictoryTechnique.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
