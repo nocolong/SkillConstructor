@@ -1,0 +1,25 @@
+<ion-view title="Submit a Video">
+    <ion-content overflow-scroll="true" padding="true" class="has-header">
+        <form class="list">
+            <label class="item item-input item-select">
+                <div class="input-label">
+                    Choose Discipline
+                </div>
+                <select class="selections">
+                    <option>Jiu-Jitsu</option>
+                    <option>Boxing/ Muay Thai</option>
+                    <option>Crossfit</option>
+                    <option>Other</option>
+                </select>
+            </label>
+
+        </form>
+        <input type="url" ng-model="newVidSubmission.VidSubmissionUrl" />
+        <div class="panel-footer clearfix">
+            <button class="btn btn-success pull-right" ng-click="createVidSubmission()">Submit</button>`
+
+
+
+        </div>
+    </ion-content>
+</ion-view>

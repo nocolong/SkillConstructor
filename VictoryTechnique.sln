@@ -9,6 +9,28 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VictoryTechnique.Data", "Vi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VictoryTechnique", "VictoryTechnique\VictoryTechnique.csproj", "{E1E19A55-E8A4-4683-B7E4-7593F88E78C3}"
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VictoryTechnique.Mobile", "VictoryTechnique.Mobile\", "{E7776C76-D779-446C-80E7-50CCF676F21A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61835"
+		Debug.AspNetCompiler.PhysicalPath = "VictoryTechnique.Mobile\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61835\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61835"
+		Release.AspNetCompiler.PhysicalPath = "VictoryTechnique.Mobile\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61835\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61835"
+		SlnRelativePath = "VictoryTechnique.Mobile\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +49,10 @@ Global
 		{E1E19A55-E8A4-4683-B7E4-7593F88E78C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1E19A55-E8A4-4683-B7E4-7593F88E78C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1E19A55-E8A4-4683-B7E4-7593F88E78C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7776C76-D779-446C-80E7-50CCF676F21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7776C76-D779-446C-80E7-50CCF676F21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7776C76-D779-446C-80E7-50CCF676F21A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7776C76-D779-446C-80E7-50CCF676F21A}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

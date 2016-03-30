@@ -1,0 +1,31 @@
+﻿.home-pane {
+    background: url('../img/GREG BG2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+#inputTextMessage{
+    min-height: 150px;
+    max-height: 150px;
+    max-width: 100%;
+}
+.myVideos-pane {
+    background-color: cornflowerblue;
+}
+.feed-pane {
+    background-color: cornflowerblue;
+}
+.input-label {
+    font-size: medium;
+    font-weight:bold;
+}
+#header {
+    color: whitesmoke;
+}
+.signup-pane {
+    background: url('../img/helio.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
