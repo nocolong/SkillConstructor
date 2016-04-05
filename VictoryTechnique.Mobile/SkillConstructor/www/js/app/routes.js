@@ -35,6 +35,7 @@ angular.module('app.routes', [])
 
     .state('tabsController.feed', {
         url: '/feed',
+        parent: 'tabsController',
         views: {
             'tab4': {
                 templateUrl: 'templates/app/feed/feed.html',
@@ -46,7 +47,7 @@ angular.module('app.routes', [])
     .state('tabsController.feed.critique', {
         url: '/critique/:vidSubmissionId',
         views: {
-            'tab4@critique': {
+            'tab4@tabsController': {
                 templateUrl: 'templates/app/critiques/critiques.html',
                 controller: 'critiqueCtrl'
             }

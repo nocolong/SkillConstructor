@@ -11,10 +11,10 @@
     max-width: 100%;
 }
 .myVideos-pane {
-    background-color: cornflowerblue;
+    background-color: #B0C4DE;
 }
 .feed-pane {
-    background-color: cornflowerblue;
+    background-color: #B0C4DE;
 }
 .input-label {
     font-size: medium;
@@ -24,8 +24,17 @@
     color: whitesmoke;
 }
 .signup-pane {
-    background: url('../img/helio.jpg') no-repeat center center fixed;
+    background: url('../img/Depositphotos_40491777_m.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
+}
+.login-pane {
+    background: url('../img/11700864_1128272793853172_8252874702209766246_n.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+.submitAVideo-pane {
+    background-color: #B0C4DE;
 }

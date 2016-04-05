@@ -1,5 +1,5 @@
-<ion-view title="Login">
-    <ion-content overflow-scroll="true" padding="true" class="has-header">
+<ion-view title="Login" class="login-pane">
+    <ion-content overflow-scroll="true" padding="true" scroll="false" class="has-header">
         <form class="list">
             <ion-list>
                 <label class="item item-input">
@@ -12,7 +12,11 @@
                 </label>
             </ion-list>
             <div class="spacer" style="height: 40px;"></div>
-            <a id="login-button4" class="button button-stable  button-block" ng-click="login()">Log in</a>
         </form>
+        <div>
+            <a id="login-button4" class="bar bar-footer bar-positive" ng-click="login()">
+                <div class="title">Log in</div>
+            </a>
+        </div>
     </ion-content>
 </ion-view>

@@ -5,7 +5,7 @@
 // the 2nd parameter is an array of 'requires'
 // 'starter.services' is found in services.js
 // 'starter.controllers' is found in controllers.js
-angular.module('app', ['ionic', 'app.controllers', 'app.routes', 'app.services', 'app.directives', 'ngResource', 'ui.router', 'LocalStorageModule'])
+angular.module('app', ['ionic', 'app.controllers', 'app.routes', 'app.services', 'app.directives', 'ngResource', 'ui.router', 'LocalStorageModule', 'youtube-embed'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {

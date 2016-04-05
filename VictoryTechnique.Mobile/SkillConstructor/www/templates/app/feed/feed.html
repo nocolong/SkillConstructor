@@ -1,14 +1,14 @@
 <ion-view title="Feed" class="feed-pane">
     <ion-content overflow-scroll="true" padding="true" class="has-header">
-        <div class="list card" ng-repeat="vidSubmission in [1,2,3,4,5]">
+        <div class="list card" ng-repeat="vidSubmission in vidSubmissions">
             <div class="item item-avatar">
-                <img src="img/YzIpZeI5TcC6zXbJzHfW_Victory Profile.jpg" />
-                <h2>Greg McIntyre</h2>
+                <img ng-src="{{vidSubmission.User.PhotoUrl}}" />
+                <h2>{{vidSubmission.User.UserName}}</h2>
             </div>
             <div class="item item-body">
-                <img src="http://placehold.it/305x305" class="img-responsive">
+                <youtube-video video-id="vidSubmission.VidSubmissionUrl" player-width="305" player-height="305"></youtube-video>
                 <p class="text-right">
-                    <a ui-sref="tabsController.feed.critique" class="subdued">5 Critiques</a>
+                    <a href="#/page1/feed/critique/{{vidSubmission.VidSubmissionId}}" class="subdued">5 Critiques</a>
                 </p>
             </div>
         </div>

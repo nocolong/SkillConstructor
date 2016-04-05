@@ -16,6 +16,7 @@ namespace VictoryTechnique.Core.Models
         public DateTime DateOpened { get; set; }
         public DateTime? DateClosed { get; set; }
 
+        public UserModel User { get; set; }
         public IEnumerable<VidSubmissionTagModel> Tags { get; set; }
     }
 }

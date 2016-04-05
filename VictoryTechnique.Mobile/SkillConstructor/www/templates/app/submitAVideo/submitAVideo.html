@@ -1,4 +1,4 @@
-<ion-view title="Submit a Video">
+<ion-view title="Submit a Video" class="submitAVideo-pane">
     <ion-content overflow-scroll="true" padding="true" class="has-header">
         <form class="list">
             <label class="item item-input item-select">
@@ -14,12 +14,14 @@
             </label>
 
         </form>
-        <input type="url" ng-model="newVidSubmission.VidSubmissionUrl" />
-        <div class="panel-footer clearfix">
-            <button class="btn btn-success pull-right" ng-click="createVidSubmission()">Submit</button>`
+        <div class="item item-body">
+            <img src="http://placehold.it/305x305" class="img-responsive">
+            <input type="url" ng-model="newVidSubmission.VidSubmissionUrl" />
+            <div class="panel-footer clearfix">
+                <button class="button button-clear button-dark" ng-click="createVidSubmission()">Submit</button>`
 
 
-
-        </div>
-    </ion-content>
+</div>
+            </div>
+</ion-content>
 </ion-view>
